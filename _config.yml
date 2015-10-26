@@ -1,0 +1,23 @@
+name: axisofaction
+favicon: null
+layout_spectrum: 0.6037223935127258
+typography_spectrum: 0.3073204066604376
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.012535806046798825
+  lightness: 0.16360495425760746
+  saturation: 0.3437525471672416
+  rhythmicContrast: 0.3726342604495585
+purpose: []
